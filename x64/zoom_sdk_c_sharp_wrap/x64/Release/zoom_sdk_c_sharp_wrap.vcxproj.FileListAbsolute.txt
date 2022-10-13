@@ -1,0 +1,2 @@
+C:\Users\delen\Desktop\zoom-c-sharp-wrapper\zoom-c-sharp-wrapper-5.11.4.7235\x64\zoom_sdk_c_sharp_wrap\x64\Release\zoom_sdk_c_sharp_wrap.vcxproj.AssemblyReference.cache
+C:\Users\delen\Documents\GitHub\lfs-zoom-sdk\x64\zoom_sdk_c_sharp_wrap\x64\Release\zoom_sdk_c_sharp_wrap.vcxproj.AssemblyReference.cache

@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\delen\Documents\GitHub\lfs-zoom-sdk\x64\zoom_sdk_c_sharp_wrap\zoom_sdk_dotnet_wrap_util.h(144,34): warning C4311: 'type cast': pointer truncation from 'HWND' to 'unsigned int'
+C:\Users\delen\Documents\GitHub\lfs-zoom-sdk\x64\zoom_sdk_c_sharp_wrap\zoom_sdk_dotnet_wrap_util.h(144,34): warning C4302: 'type cast': truncation from 'HWND' to 'unsigned int'
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1371,5): warning MSB8012: TargetPath(C:\Users\delen\Documents\GitHub\lfs-zoom-sdk\x64\zoom_sdk_c_sharp_wrap\x64\Release\zoom_sdk_dotnet_wrap.dll) does not match the Linker's OutputFile property value (C:\Users\delen\Documents\GitHub\lfs-zoom-sdk\x64\bin\zoom_sdk_dotnet_wrap.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     Creating library ..\bin\zoom_sdk_dotnet_wrap.lib and object ..\bin\zoom_sdk_dotnet_wrap.exp
+  zoom_sdk_c_sharp_wrap.vcxproj -> C:\Users\delen\Documents\GitHub\lfs-zoom-sdk\x64\zoom_sdk_c_sharp_wrap\x64\Release\zoom_sdk_dotnet_wrap.dll
